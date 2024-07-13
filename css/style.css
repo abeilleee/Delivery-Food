@@ -135,7 +135,7 @@ main{
 }
 
 .banner-item{
-    background-image: url(./images/banners/bannerimg.png);
+    background-image: url(/images/banners/bannerimg.png);
     background-repeat:no-repeat;
     background-size: contain;
     padding: 68px;
